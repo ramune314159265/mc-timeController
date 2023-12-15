@@ -1,0 +1,1 @@
+scoreboard objectives add r_rightClick minecraft.used:minecraft.carrot_on_a_stick
