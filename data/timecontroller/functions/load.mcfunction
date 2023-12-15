@@ -1,1 +1,3 @@
 scoreboard objectives add r_rightClick minecraft.used:minecraft.carrot_on_a_stick
+
+tellraw @a [{"text":"\u6642\u9593\u64cd\u4f5c\u30c7\u30fc\u30bf\u30d1\u30c3\u30af\u304c\u6709\u52b9\u5316\u3055\u308c\u307e\u3057\u305f\n\u30a2\u30a4\u30c6\u30e0\u5165\u624b\u30b3\u30de\u30f3\u30c9\u306f ","color":"gold"},{"text":"/function timecontroller:giveitems","color":"gold","clickEvent":{"action":"suggest_command","value":"/function timecontroller:giveitems"}},{"text":" \u3067\u3059","color":"gold"}]
